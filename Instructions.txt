@@ -1,0 +1,3 @@
+cd C:\PerdictionCardioByte
+git add app.py 
+streamlit run app.py
